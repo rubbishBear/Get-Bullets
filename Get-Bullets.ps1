@@ -12,7 +12,7 @@
 #>
 
 param (
-    [array]$bullets
+    [array]$Bullets
 )
 
 if (-Not (Test-Path -Path $bullets)) {
