@@ -7,5 +7,5 @@ Compile a list of tasks you generally accomplish on any given week. Use this scr
 ## Usage
 
 ```PowerShell
-PS > .\Get-Bullets.ps1 -Bullets <list of achievements>.txt
+PS C:\>Get-Bullets.ps1 -Bullets <bullets list>.txt
 ```
